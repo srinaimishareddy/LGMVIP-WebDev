@@ -1,4 +1,4 @@
-Yummy Scoops!
+Arun Icecream so pretty!
 It is a simple but elegant html, css and little js based web app. 
 
 About the web app:
